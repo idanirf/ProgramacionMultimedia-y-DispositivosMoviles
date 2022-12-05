@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="descripci_n_de_la_im_gen">Descripción de la imágen</string>
+    <string name="descripci_n_de_la_imagen">Descripción de la imagen</string>
+    <string name="name">Name</string>
+</resources>
